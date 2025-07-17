@@ -13,7 +13,7 @@ This repository contains the source code and assets for the official website of 
 Created and maintained by **Om Prasad Mohanty**, a passionate web developer focused on building fast, user-friendly, and accessible websites for NGOs, businesses, and personal brands.
 
 🔗 Live Preview:[
-[https://kanha5140.github.io/Om-prasd-mohanty](https://kanha5140.github.io/Om-prasd-mohanty)](https://vishnusewafoundation.netlify.app/)
+(https://vishnusewafoundation.netlify.app/)
 
 📩 Contact:
 For development services or NGO digital solutions:
