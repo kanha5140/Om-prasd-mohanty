@@ -1,21 +1,30 @@
-# Om-prasd-mohanty
-Official website for Vishnu Sewa Foundation or My web developer portfolio
+👋 Hi, I'm Om Prasad Mohanty
 
-This repository contains the source code and assets for the official website of the Vishnu Sewa Foundation — a non-profit organization dedicated to social upliftment through education, healthcare, women empowerment, agriculture, and rural development in Odisha, India.
+💻 Web Developer | UI/UX Designer | Automation Enthusiast
 
-🚀 Technologies Used:
-- HTML5, CSS3, JavaScript
-- Responsive Design for Mobile & Desktop
-- Google Sheets Integration for Form Submissions
-- GitHub Pages for Free Hosting
+I build modern, fast, and responsive websites for businesses and individuals.
+From real-estate websites, company portfolios, custom forms, admin dashboards, to premium animated designs — I create projects that blend performance with creativity.
 
-👨‍💻 Developer Portfolio:
-Created and maintained by **Om Prasad Mohanty**, a passionate web developer focused on building fast, user-friendly, and accessible websites for NGOs, businesses, and personal brands.
+🚀 What I Do
 
-🔗 Live Preview:[
-(https://vishnusewafoundation.netlify.app/)
+* 🌐 Website Design & Development
+* 🎨 Logo & Branding Design
+* 🛠 Custom Admin Panels (PHP, MySQL)
+* 📝 Google Sheet Integrated Forms
+* 📱 Mobile-Friendly UI/UX Designs
+* ⚙️ Automation Scripts & Tools
 
-📩 Contact:
-For development services or NGO digital solutions:
-📧 kanha5140q@gmail.com
-📞 +91-8144471039
+🛠 Tech Stack
+
+HTML5 | CSS3 | JavaScript | PHP | MySQL | Tailwind | Bootstrap | React | Google Apps Script
+
+📌 Current Projects
+
+* 🔧 Admin Dashboard for Real Estate Company
+* 🧾 Advanced Registration Form With Family Details + Photo Upload (Google Sheets & MySQL)
+* 🌐 Premium Website for **Omm Technology**
+
+📩 Contact Me
+Website:  https://omm-technology-solutions-unit.netlify.app/
+📧 Email: [kanha5140q@gmail.com](mailto:kanha5140q@gmail.com)
+📱 Phone: +91-8144471036
